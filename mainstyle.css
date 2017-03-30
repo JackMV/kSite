@@ -1,7 +1,16 @@
-#title {
+h1 {
   text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  width:auto;
+  font-weight:normal;
 }
 
-#subtitle {
+h5 {
   text-align: center;
+  font-weight:normal;
+}
+
+nav {
+  text-align:center;
 }
